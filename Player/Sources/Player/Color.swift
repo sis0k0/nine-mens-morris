@@ -1,6 +1,6 @@
 public enum Color: String {
-    case first = "*"
-    case second = "o"
+    case first = "🔴"
+    case second = "🔵"
     case none = ""
 
     public func toString() -> String {
